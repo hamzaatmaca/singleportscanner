@@ -1,0 +1,32 @@
+{
+  "name": "mutiportscanner",
+  "version": "1.0.0",
+  "description": "Learn a port status for open/close ",
+  "github": "https://github.com/hamzaatmaca/singleportscanner",
+  "main": "./src/multiportscanner.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portscanner",
+    "portstatus",
+    "port",
+    "ports",
+    "scanner",
+    "open ports",
+    "closed ports",
+    "scan",
+    "single",
+    "singleportscanner",
+    "scanports",
+    "port scanner",
+    "port finder"
+  ],
+  "author": {
+    "name": "Hamza Atmaca"
+  },
+  "license": "MIT"
+}
